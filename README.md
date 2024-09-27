@@ -11,8 +11,6 @@ Taking notes app created with React, LocalStorage and Tailwind CSS.
 
 - Search for notes based on a term (such as its title, date of creation, or word included in it).
 
-## Gallery
-https://imgur.com/a/muDOtXV
+For install - npm install
 
-## Live Demo
-https://sticky-notes-app.vercel.app/
+for start - npm start
