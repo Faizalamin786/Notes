@@ -1,7 +1,6 @@
 # Sticky Notes App
 Taking notes app created with React, LocalStorage and Tailwind CSS. 
 
-<img src="https://i.imgur.com/pf0ik7K.png" alt="Sticky Notes App Image Preview"/>
 
 **Features**: 
 - Notes support markdown code, such as headers, paragraphs, bold, italic, lists, links, tables, phrases, code blocks and images.
